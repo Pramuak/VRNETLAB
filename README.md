@@ -3,4 +3,6 @@
 A P P ABESEKARA - 10818798
 
 # Manual
-Install the VRNETLAB apk to run the application
+-- Sideloard the application to your oculus device 
+-- Install the VRNETLAB apk to run the application
+
